@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+body{
+  background-color: rgb(94, 91, 91);
+}
+h1{
+  color: aqua;
+}
